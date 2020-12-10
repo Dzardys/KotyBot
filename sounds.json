@@ -1,0 +1,5 @@
+{
+	"kozy": Files["./sounds/kozy.wav"],
+	"srpen": Files["./sounds/srpen.wav"],
+	"desktop": Files["./sounds/desktop.wav"]
+}

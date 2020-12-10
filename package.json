@@ -1,0 +1,21 @@
+{
+  "name": "kotybot",
+  "version": "1.0.0",
+  "description": "Zum Beispiel Ivan",
+  "main": "index.js",
+  "scripts": {
+    "test": "Ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Pong"
+  },
+  "keywords": [
+    "koty"
+  ],
+  "author": "Dzardys",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
